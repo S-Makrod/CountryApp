@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios'
 
-// Testing
+// Test
 
 const Filter = ({value, onChange}) => <div>Find countries <input value={value} onChange={onChange} /></div>
 
